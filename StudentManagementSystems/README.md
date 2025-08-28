@@ -2,7 +2,8 @@
 
 A desktop application for managing student records, built with Java Swing and backed by an SQLite database. This project demonstrates skills in Java GUI development, event handling, and database connectivity (JDBC).
 
-![Screenshot of the application](screenshot.png)
+<img width="1478" height="886" alt="image" src="https://github.com/user-attachments/assets/135c5687-bc5a-4023-80a2-90e0861762d0" />
+
 
 ## Features
 
@@ -33,4 +34,5 @@ A desktop application for managing student records, built with Java Swing and ba
     * Right-click the project -> **Build Path** -> **Configure Build Path...**
     * Go to the **Libraries** tab, select **Classpath**, and click **Add External JARs...**.
     * Select the downloaded `sqlite-jdbc-....jar` file.
+
 5.  Run the `StudentManagementSystem.java` file. A `students.db` file will be created automatically in the project's root directory.
